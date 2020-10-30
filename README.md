@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi :smiley:
 
-<!--
-**PedroMoraesFranco/PedroMoraesFranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **physics student** in **Federal University of São Carlos [(UFSCar)](https://www2.ufscar.br)**. 
 
-Here are some ideas to get you started:
+Currently I'm working at volunteer work of scientific initiation in areas:
+- Quantum Optics 
+- Bloch oscillation
+- Anderson localization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+
+- I especially like: 
+- astroparticle physics :satellite:
+- quantum information :calling:
+- quantum compunting :computer:
+
+### How to find me:
+
+- :mortar_board: [CV Lattes](http://lattes.cnpq.br/4549535445248752)
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/pedro-luís-moraes-franco-b10895146/)
