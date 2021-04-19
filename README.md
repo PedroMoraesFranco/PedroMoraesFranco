@@ -4,8 +4,7 @@ I'm a **physics student** in **Federal University of São Carlos [(UFSCar)](http
 
 Currently I'm working at volunteer work of scientific initiation in areas:
 - Quantum Optics 
-- Bloch oscillation
-- Anderson localization
+- Localization
 
 ### About me:
 
