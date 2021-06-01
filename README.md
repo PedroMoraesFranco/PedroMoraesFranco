@@ -9,7 +9,6 @@ Currently I'm working at volunteer work of scientific initiation in areas:
 ### About me:
 
 **I especially like:** 
-- astroparticle physics :satellite:
 - quantum information :calling:
 - quantum compunting :computer:
 
