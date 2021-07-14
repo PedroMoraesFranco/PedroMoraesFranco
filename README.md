@@ -2,7 +2,7 @@
 
 I'm a **physics student** in **Federal University of São Carlos [(UFSCar)](https://www2.ufscar.br)**. 
 
-Currently I'm working at scientific initiation in ligth atom group.
+Currently I'm working at scientific initiation in light atom group.
 
 ### How to find me:
 
