@@ -2,15 +2,7 @@
 
 I'm a **physics student** in **Federal University of São Carlos [(UFSCar)](https://www2.ufscar.br)**. 
 
-Currently I'm working at volunteer work of scientific initiation in areas:
-- Quantum Optics 
-- Localization
-
-### About me:
-
-**I especially like:** 
-- quantum information :calling:
-- quantum compunting :computer:
+Currently I'm working at scientific initiation in ligth atom group.
 
 ### How to find me:
 
