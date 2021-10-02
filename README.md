@@ -11,7 +11,9 @@ Currently I'm working at scientific initiation in light atom group.
 </div>
 
 
-Linguagens utilizadas:
+<p align="center">
+   Linguagens utilizadas:
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Julia&color=0d0c0c&style=for-the-badge&logo=julia"/>
