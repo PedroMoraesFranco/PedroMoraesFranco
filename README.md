@@ -4,7 +4,14 @@ I'm a **physics student** in **Federal University of São Carlos [(UFSCar)](http
 
 Currently I'm working at scientific initiation in light atom group.
 
-### How to find me:
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroMoraesFranco&show_icons=true&theme=radical"/>
+  </a>
+</div>
 
-- :mortar_board: [CV Lattes](http://lattes.cnpq.br/4549535445248752)
-- :briefcase: [LinkedIn](https://www.linkedin.com/in/pedro-luís-moraes-franco-b10895146/)
+<div align=center>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoraesFranco&layout=compact&theme=radical"/>
+  </a>
+</div>
