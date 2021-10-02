@@ -10,8 +10,16 @@ Currently I'm working at scientific initiation in light atom group.
   </a>
 </div>
 
-
 <p align="center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
    Linguagens utilizadas:
 </p>
 
@@ -21,9 +29,15 @@ Currently I'm working at scientific initiation in light atom group.
   <img src="https://img.shields.io/static/v1?label=&message=Fortran&color=4479A1&logoColor=white&style=for-the-badge&logo=fortran"/>
 </p>
 
-
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoraesFranco&layout=compact&theme=radical"/>
   </a>
 </div>
+
+<p align="center">
+  
+  
+  
+   Contatos:
+</p>
