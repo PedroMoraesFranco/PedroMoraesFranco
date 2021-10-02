@@ -27,8 +27,10 @@ Currently I'm working at scientific initiation in light atom group.
 </div>
 
 <p align="center">
-   Contatos:
+   Contato:
 </p>
-<a align="center" href="https://www.linkedin.com/in/pedro-luís-moraes-franco-b10895146/">
-  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn"/>
-</a>
+<div align="center"
+  <a  href="https://www.linkedin.com/in/pedro-luís-moraes-franco-b10895146/">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn"/>
+  </a>
+<\div>
