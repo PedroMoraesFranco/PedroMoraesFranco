@@ -11,15 +11,6 @@ Currently I'm working at scientific initiation in light atom group.
 </div>
 
 <p align="center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
    Linguagens utilizadas:
 </p>
 
@@ -36,8 +27,8 @@ Currently I'm working at scientific initiation in light atom group.
 </div>
 
 <p align="center">
-  
-  
-  
    Contatos:
 </p>
+<a href="https://www.linkedin.com/in/pedro-luís-moraes-franco-b10895146/">
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn"/>
+</a>
