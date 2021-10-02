@@ -11,7 +11,7 @@ Currently I'm working at scientific initiation in light atom group.
 </div>
 
 <p align="center">
-   Linguagens utilizadas:
+   Linguagens estudadas:
 </p>
 
 <p align="center">
