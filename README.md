@@ -12,9 +12,9 @@ Currently I'm working at scientific initiation in light atom group.
 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=Julia&color=f0a5ca&style=for-the-badge&logo=sass"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=1572B6&style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Fortran&color=E34F26&logoColor=white&style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Julia&color=f0a5ca&style=for-the-badge&logo=julia"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=1572B6&style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Fortran&color=E34F26&logoColor=white&style=for-the-badge&logo=fortran"/>
 </p>
 
 <div align=center>
