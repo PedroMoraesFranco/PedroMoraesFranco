@@ -11,11 +11,14 @@ Currently I'm working at scientific initiation in light atom group.
 </div>
 
 
+Linguagens utilizadas:
+
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Julia&color=0d0c0c&style=for-the-badge&logo=julia"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=1572B6&style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=9c9fc9&style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/static/v1?label=&message=Fortran&color=4479A1&logoColor=white&style=for-the-badge&logo=fortran"/>
 </p>
+
 
 <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
